@@ -1,7 +1,7 @@
 # fazer upload da pasta img e do css no lugar certo pra não quebrar ou dar erro
+ps -- favicon nao foi localizado quando baixei a pasta
 
-
-https://luizagomes1008.github.io/site_parentes/
+https://maricsilva.github.io/feiratec/
 > **caminho da pasta img:** assets\img
 
 
